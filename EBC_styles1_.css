@@ -1,0 +1,57 @@
+#menu_bar_sinhala:hover   {color: #ff0000;
+                           font-size: 17px;
+                           margin-left: -4px;
+                           transition: 0.2s;
+                            }
+#menu_bar_sinhala:active    {color: #bd0000;
+                             text-decoration: underline;
+                            }
+
+
+#menu_bar_tamil:hover   {color: #ff0000;
+                           font-size: 17px;
+                           margin-left: -4px;
+                           transition: 0.2s;
+                            }
+#menu_bar_tamil:active    {color: #bd0000;
+                             text-decoration: underline;
+                            }
+
+
+#menu_bar_podcasts:hover   {color: #ff0000;
+                           font-size: 17px;
+                           margin-left: -2px;
+                           transition: 0.2s;
+                            }
+#menu_bar_podcasts:active    {color: #bd0000;
+                             text-decoration: underline;
+                            }
+
+
+#menu_bar_songs:hover   {color: #ff0000;
+                           font-size: 17px;
+                           margin-left: -1px;
+                           transition: 0.2s;
+                            }
+#menu_bar_songs:active    {color: #bd0000;
+                             text-decoration: underline;
+                            }
+
+
+#menu_bar_cantact:hover   {color: #ff0000;
+                           font-size: 17px;
+                           margin-left: -2px;
+                           transition: 0.2s;
+                            }
+#menu_bar_cantact:active    {color: #bd0000;
+                             text-decoration: underline;
+                            }
+
+#contactp   {font-size: 16px;
+             display: none;
+             text-align: center;
+             font-family: sans-serif;
+             margin-top: 5px;
+             margin-bottom: 0px;
+            }
+
