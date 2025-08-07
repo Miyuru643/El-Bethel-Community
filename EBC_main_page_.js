@@ -1,3 +1,7 @@
+window.onload = function()
+                          {
+                                document.getElementById('theboxone').style.display="block";
+                          }
 function
         sinhalabi() {
                 window.location.href="Sinhala_.html"
