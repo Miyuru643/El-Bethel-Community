@@ -1,17 +1,17 @@
 html,body   {color: #f1f1f1;
-             background: linear-gradient(180deg,
-                                         #000000,
-                                         #0077d8,
-                                         #c73535,
-                                         #3a343b,
-                                         #d4ca3f
-                                        );
              font-size: 16px;
              margin: 0px;
              cursor: default;
              width: 1349px;
             }
 
+.bgmaincolor    {background: linear-gradient(180deg,
+                                         #000000,
+                                         #0077d8,
+                                         #c73535,
+                                         #3a343b,
+                                         #d4ca3f
+                                        );}
 .Mainone    {display: flex;
              width: auto;
              height: 72px;
@@ -90,10 +90,10 @@ html,body   {color: #f1f1f1;
 .check  {width: 570px;
          height: 125px;
          border-style: solid;
-         border-width: 2px;
+         border-width: 0px;
         }
 .check img {width: 570px;
-            height: 125px;
+            height: 128px;
             }
 .thebodyboxdoubletext h1 {font-size: 150px;
                      display: inline-block;
@@ -117,13 +117,15 @@ html,body   {color: #f1f1f1;
 
 .adboxmain  {display: flex;
              width: 1200px;
-             height: 150px;
+             height: 130px;
              margin-left: 65px;
              border-style: solid;
              border-width: 2px;
              margin-bottom: 2px;
             }
-
+.adboxin    {width: 600px;
+             height: auto;
+            }
 
 
 
@@ -137,7 +139,6 @@ html,body   {color: #f1f1f1;
 
 .secondbodytext {width: 570px;
                  height: 275px;
-                 background-color: #000000;
                 }
 .secondbodytext h1  {font-family: calibri;
                        display: inline-block;
@@ -164,15 +165,13 @@ html,body   {color: #f1f1f1;
 .secondbodyphoto img  {width: 760px;
                        height: 400px;
                        border-radius: 30px;
-                       border-bottom-left-radius: 0px;
-                       border-top-left-radius: 0px;
                       }
 
 
 
 
 .enditem  {display: grid;
-           width: 1349px;
+           width: 1355px;
            height: auto;
            font-family: cambria;
            color: #ffffff;
@@ -187,7 +186,6 @@ html,body   {color: #f1f1f1;
 .endebc {display: flex;
          width: 1349px;
          align-items: center;
-         background-color: #000000;
          height: 60px;
         }
 .endebc img {width:50px;
@@ -230,3 +228,6 @@ html,body   {color: #f1f1f1;
                    cursor: pointer;
                    border-radius: 30px;
                   }
+.videoboxbox img:hover  {box-shadow: 0px 0px 10px #000000;
+                         transition: 0.30s;
+                        }
