@@ -1,0 +1,29 @@
+    .theboxone  {position: fixed;
+                 width: 1370px;
+                 height: 655px;
+                 margin-left: 0px;
+                 margin-top: 0px;
+                 display: none;
+                 overflow-y: scroll;
+                 overflow-x: hidden;
+                }
+
+#buttonbgm  {width:200px;
+             height: 40px;
+             background-color: #ff0000;
+             color: #ffffff;
+             border-radius: 30px;
+             border: none;
+             font-size: 16px;
+             font-family: segoe ui;
+            }
+
+.classs {display: none;
+         margin: 0px;
+        }
+        
+.classsa {width: auto;
+          height: auto;
+          margin: 0px;
+          display: inline-grid;
+         }
